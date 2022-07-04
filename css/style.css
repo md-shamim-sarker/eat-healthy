@@ -97,3 +97,54 @@ section {
 #recipy-1 h2 {
     margin-bottom: 3%;
 }
+
+#recipy-2 {
+    display: inline-flex;
+    justify-content: center;
+    gap: 3%;
+
+}
+
+.recipy-width {
+    width: 40%;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 15px;
+}
+
+#recipy-2 img {
+    border-radius: 15px;
+    width: 90%;
+    display: inline-block;
+    margin: 5% 5%;
+}
+
+.recipy-width div {
+    margin: 0 5% 5% 5%;
+}
+
+
+.followers {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 10%;
+    display: flex;
+    padding: 3%;
+    justify-content: space-evenly;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 15px;
+}
+
+footer {
+    text-align: center;
+    padding: 5%;
+    background-color: rgb(31, 28, 28);
+    color: rgb(228, 220, 220);
+}
+
+.eat-color {
+    color: #FF9C4D;
+}
+
+.fresh-color {
+    color: #5D5D5D;
+}
